@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+/.vscode/
+/.idea/
+/__pycache__/*
